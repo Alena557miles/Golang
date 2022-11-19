@@ -1,0 +1,39 @@
+
+github.com/golang
+
+The library of the best Go tools (for working with Gerrit code reviews, windows builders, testers etc). There are supplementary time packages for low-level interaction with the operating system and Go App engine. The site is regularly updated and reviewed by Golang experts.
+Golang/GO on GitHub
+
+Golang is one of the most popular languages on GitHub. Source: octoverse.github.com
+Dave Cheney’s blog
+
+dave.cheney.net
+
+Dave Cheney is a well-known Golang expert – he is a regular conference attendant and a certified trainer. His blog is interesting both for experts and beginners. It provides:
+
+    Thorough how-to guides (Maksim Kuharenko, recommends to start with Resources for new Go programmers)
+    Information about conferences and training sessions
+    Analytics about Golang benefits updates and features.
+
+Just For Func: Programming in Go
+
+Youtube channel
+
+Video guides are an excellent way to master Golang Web and mobile development – they are easier to understand and repeat after. There are lots of visual tutorials such as how to build an app or a Chrome extension from scratch using Golang, Go tooling in Action. The channel also provides series of screencasts and talk recordings about Google Cloud Platform.
+Golang news
+
+golangnews.com
+
+It is one of the most often updated Go news sites – there is information from the most popular blogs so you don’t have to follow all of them. Everything you need to know about Golang services and updates is collected here. The page is updated 2-3 times a day so if you want to keep track of the latest updates, make it a habit to visit the site. If you are a beginner, we recommend starting with video tutorials and code lessons.
+Martin Fowler’s blog
+
+martinfowler.com
+
+Martin Fowler is a credible software development expert, author of best-selling books and popular blog. He works in ThoughtWorks – the company which develops Golang for six years now. As a Chief Scientist, Martin has lots to say about Go and its specifics. We recommend reading his interview with Chad Wathington, Managing Director of ThoughtWorks – there is a lot of insider information about Golang.
+StackOverflow
+
+stackoverflow.com/questions
+
+Stack Overflow Questions are a great source of information for a Golang beginner. Here experts provide free advice and answers to developers questions and share opinions about latest Go trends. You can read already answered questions or ask something yourself – you will receive comments in less than an hour.
+
+You can also communicate with top Golang developers, explore tutorials and Wiki including guides, books and project cases.

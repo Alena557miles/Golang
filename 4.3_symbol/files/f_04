@@ -1,0 +1,35 @@
+Top-15 resources and sites to learn Golang from
+by QArea Team on November 29, 2017
+Top-15 resources and sites to learn Golang from
+
+Even though Golang was presented only in 2009, it already holds a firm position in software development of any kind, not limiting only to microservices architecture as was believed a couple years ago. Maks Kuharenko, QArea’s CTO, created a list of the best Golang development sites and resources to improve skills and keep track on recent news.
+Looking for Golang developers?
+Hire a team at QArea
+40% off on first two months.
+30+ skilled Golang developers are ready to start. Start your Golang project with QArea before January 15th and get 40% off of any 3+ month project.
+Why learn Go?
+
+Golang is one of the most contradictory new programming languages. If to visit developers discussions on Quora and Reddit, it becomes obvious how controversial Go is. Some devs don’t even consider it as a functional language, others are in love with Its fast performance, comfortable concurrency model, and simple binary deployments. No wonder, it is not that easy to form your own independent opinion, especially if you have only started exploring Golang technology.
+
+golang development
+
+Golang popularity is growing fast. Source: Google Trends
+
+We decided to ask the Go expert and CTO at QArea’s, Maksim Kuharenko, to share his personal list of must-have Golang sites with news, analytics, cases, and tutorials – so you can receive the information from different experts, form own opinion about the language and improve coding skills. QArea developers write on Go for 4 years (this experience is pretty rare in developers community, especially if you consider the fact that the language was officially announced only 8 years ago). Maksim Kuharenko and his team were practically pioneers of Golang development so if there is someone to be asked about most credible sites, it is him.
+Golang.org
+
+golang.org/doc
+
+It is a must-read site for those who are getting started. Here you can find:
+
+    Tour of Golang (online or installed locally)
+    Official answers to frequently asked questions
+    Must-have packages (package and command documentation, language specification), the Go Memory Model and release history
+    Codewalks, official guidelines, tools and tips
+
+Golang official packages
+
+golang.org/pkg
+
+An official library of GoLang packages with their explanation and links to full wiki articles. You can look into all the Open Source packs provided by the community with full guides to them.
+Golang on GitHub

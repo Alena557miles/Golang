@@ -1,0 +1,50 @@
+
+Golang Sites
+
+The popularity of Golang on OverStack. Source: insights.stackoverflow.com/survey/2017
+Learn Go programming
+
+blog.learngoprogramming.com
+
+Great visual Go guides for experts and beginners. The site is regularly updated (2-3 tutorials for a week). At the end of each month there is a recap of all written articles – so you won’t miss anything. For beginners, we suggest it is better to start general Go overview with language history, specifics and advantages. The article is very engaging to read – the data is visually presented and the writing style is just perfect.
+Golang Code
+
+golangcode.com
+
+Golang Code provides brief how-to articles with less words and more code samples – the articles are tiny and to the point. The blog provides short answers to little everyday questions (how to generate a random number, print a variable’s type, convert an int to a string etc). It definitely deserves to be on your must-read list just in case a problem arrives.
+GoalngBrdge Forum
+
+forum.golangbridge.org
+
+Go Forum is a perfect source of experience and professional advice for beginners. Questions and topics are divided into few categories:
+
+    Getting help
+    Technical discussion
+    Jobs
+    Code Review
+    Site Feedback
+    Releases
+    Community
+
+Each of the categories is regularly updated and discussed both by experts and beginners. The community is very active (17.4k posts, 2.1 k topics, 4.2k users, 5.4 k likes). New questions and answers about Golang app and web development are published at least 2-3 times a day.
+
+Golang Experts
+
+GoForum Statistics. Source: https://forum.golangbridge.org/about
+GoTime
+
+changelog.com/gotime
+
+What can be better for a beginner than watching a full-time Golang show with world’s best experts? Go Time Show is hosted by Erik St. Martin (Cloud Developer Advocate for Microsoft, Azure, and GopherCon), Carlisia Pinto (Golang trainer), Brian Ketelsen (Go expert, author of numerous talks and webinars).
+
+Each week they invite best Golang experts (the show was already visited by Dmitri Shuralyov, Chase Adams, Alexander Neumann and many others) to discuss getting into Golang, its advantages, and specifics.
+
+The show can be watched both live and in-record – the new episode goes out every Thursday.
+Golang Programs
+
+golangprograms.com
+
+The website is a perfect source of free education and Golang development tools. The programs and tutorials are divided into two categories: basic programs and advanced ones. Here you can find practical code solution to your problem and find patterns and techniques for creating Go applications.
+
+If you haven’t worked on Golang projects before, we suggest you find interesting the page “What is Go?”. There is everything a beginning developer wants to know – information about data type, constants, variables, operators, concurrency, tutorials for working with interface, channels, and logging go programs. You can subscribe and regularly receive new Go programs to your e-mail.
+Golang on JetBrains
