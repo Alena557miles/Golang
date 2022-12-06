@@ -1,4 +1,4 @@
-module webserver
+module creator
 
 go 1.19
 
